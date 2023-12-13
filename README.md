@@ -4,8 +4,8 @@
 
 ---
 
+Greetings! I am Patricia Saez-Torres, a dedicated Data Scientist and Data Analyst holding a Ph.D. in Chemistry. My journey has been driven by a passion for translating complex data into strategic insights. With a foundation in Python, SQL, Tableau, MongoDB, ML, and more, I am well-equipped to tackle challenges in the realm of data-driven decision-making. Leveraging my analytical mindset developed through years of scientific research, I am eager to contribute my skills and expertise to the dynamic field of Data Science. Let's embark on a data-driven journey together!
 
-I'm a software engineer who is passionate about making contributing to open-source more approachable, creating technology to elevate people, and building community. Some technologies I enjoy working with include ReactJS, Jamstack (JavaScript, APIs + Markup) and GraphQL. In 2020, I was selected to be an inaugural <a href="https://stars.github.com/">GitHub Star 🌟</a> based on my involvement in the tech community.  My interest in the React ecosystem led me to launch <a href="https://www.reactrobins.com/">React Robins</a>, a community for women and non-binary ReactJS developers.
 
 <!--
 **psaeztorres/psaeztorres** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
