@@ -1,5 +1,12 @@
 ### Hi I'm Patricia 👋
-![me]
+---
+<img src="https://github.com/psaeztorres/psaeztorres/assets/143783801/acf48954-426a-41db-96c4-fb76353f03e3.png" alt="Imagen1" width="800" height="310">
+
+---
+
+
+I'm a software engineer who is passionate about making contributing to open-source more approachable, creating technology to elevate people, and building community. Some technologies I enjoy working with include ReactJS, Jamstack (JavaScript, APIs + Markup) and GraphQL. In 2020, I was selected to be an inaugural <a href="https://stars.github.com/">GitHub Star 🌟</a> based on my involvement in the tech community.  My interest in the React ecosystem led me to launch <a href="https://www.reactrobins.com/">React Robins</a>, a community for women and non-binary ReactJS developers.
+
 <!--
 **psaeztorres/psaeztorres** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
